@@ -1,6 +1,6 @@
 # Open Color
 
-A simple PHP utility class with the Open Color palette.
+A simple PHP utility class with the [Open Color](https://yeun.github.io/open-color/) palette.
 
 ## Installation
 
