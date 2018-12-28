@@ -1,0 +1,16 @@
+{
+  "description": "Open Color palette",
+  "keywords": ["color", "open"],
+  "homepage": "https://github.com/blazeyo/open_color",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Błażej Owczarczyk",
+      "email": "blazeyy@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "OpenColor\\": "src/" }
+  }
+}
